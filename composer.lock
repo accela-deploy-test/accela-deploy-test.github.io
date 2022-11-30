@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d30adbc9507de67a8e60ed2c46491d5d",
+    "packages": [
+        {
+            "name": "green-spot/accela",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/green-spot/accela.git",
+                "reference": "6156a3c4852686bfa85ecaabd1f3cc82181a05cb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/green-spot/accela/zipball/6156a3c4852686bfa85ecaabd1f3cc82181a05cb",
+                "reference": "6156a3c4852686bfa85ecaabd1f3cc82181a05cb",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Accela\\": "src/includes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "green spot",
+                    "email": "in.green.spot@gmail.com"
+                }
+            ],
+            "description": "PHP Web Framwork for SPA",
+            "homepage": "https://github.com/green-spot/accela",
+            "keywords": [
+                "SPA",
+                "php framework"
+            ],
+            "support": {
+                "issues": "https://github.com/green-spot/accela/issues",
+                "source": "https://github.com/green-spot/accela/tree/v0.1.0"
+            },
+            "time": "2022-11-30T07:12:26+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
